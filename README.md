@@ -94,5 +94,5 @@ udemy-clone-backend/
 
 ## Usage
 
-- The backend server will be running at `http://localhost:8080`.
+- The backend server will be running at `http://localhost:3333`.
 - Use API clients like Postman to interact with the endpoints.
