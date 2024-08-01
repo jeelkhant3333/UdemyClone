@@ -1,10 +1,10 @@
-package com.jash.jpaCrudDemo;
+package com.techspine.cms;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JpaCrudDemoApplicationTests {
+class CmsApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,4 +1,4 @@
-package com.jash.jpaCrudDemo.entity;
+package com.techspine.cms.entity;
 
 import jakarta.persistence.*;
 
